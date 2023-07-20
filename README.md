@@ -21,16 +21,6 @@
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
 <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 
-<br/>
-
-### 📈 GitHub State
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=pcpark98&show_icons=true&theme=algolia)
-
-<br/>
-
-### 🤔 Problem Solving
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=pcpark98_inha)](https://solved.ac/pcpark98_inha/)
-
 <!--
 **pcpark98/pcpark98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
